@@ -1,12 +1,8 @@
 # typing-test
 
-![Deployment CI](https://github.com/salmannotkhan/typing-test/actions/workflows/node.js.yml/badge.svg)
-
 ![typing-test(test)](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dv44pfwm7qsud43xheei.png)
 
 NOTE: This is my recreation of already existing [monkeytype](https://monkeytype.com)
-
-This site is currently live: [Visit Here](https://salmannotkhan.github.io/typing-test)
 
 ## How to run locally
 
