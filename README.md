@@ -7,7 +7,7 @@ NOTE: This is my recreation of already existing [monkeytype](https://monkeytype.
 ## How to run locally
 
 ```zsh
-git clone https://github.com/salmannotkhan/typing-test.git
+git clone https://github.com/Vivek-C-Shah/TypingTest.git
 cd typing-test
 npm install
 npm start     # to start local server at `localhost:3000`
